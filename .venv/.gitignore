@@ -1,0 +1,28 @@
+#ignore entorno virtual
+.venv/
+venv/
+
+#ignorar archivos temporales de Python
+__pycache__/
+*.__pycache__
+*.pyo
+
+#Archivos de IDE 
+.idea/
+*.log
+
+#Archivos de imagen y bases de fotos privadas
+*.jpg
+*.jpeg
+*.png
+*.zip
+
+#modelos pasados
+*.bat
+*.bz2
+
+#archivos ejecutables o binarios
+*.exe
+
+#archivo de prueba
+prueba_reconocimiento_facial.py
